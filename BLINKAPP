@@ -1,0 +1,2 @@
+#!/bin/bash
+R -e "shiny::runApp('/Users/Cheasequah/Desktop/Eyelid_Behavior/scripts/waterfallingAPP.R', launch.browser = TRUE)"
